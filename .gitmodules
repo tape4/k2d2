@@ -1,0 +1,3 @@
+[submodule "spring"]
+	path = spring
+	url = git@github.com:tape4/k2d2-spring.git

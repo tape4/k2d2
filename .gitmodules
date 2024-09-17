@@ -4,3 +4,6 @@
 [submodule "rain"]
 	path = rain
 	url = git@github.com:tape4/k2d2-rain-flask.git
+[submodule "hpc"]
+	path = hpc
+	url = git@github.com:tape4/k2d2-yolo-detect.git
